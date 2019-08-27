@@ -1,5 +1,5 @@
 # Minimal Golang App
-This repo aims to explore how to build minimal runtime for golang applications
+>This repo aims to explore how to build minimal runtime for golang application.
 
 The final docker image size is:
 ```shell
